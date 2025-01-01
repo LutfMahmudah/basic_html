@@ -1,18 +1,19 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: rgb(35, 38, 41);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
+
+    body {
+        font-family: Arial, sans-serif;
+        background-image: url(hitam.jpg);
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
 
 }
 
 .container{
-    background-color: rgb(21, 25, 32);
+    background-color: rgb(32, 32, 32);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0,1);
     padding: 30px;
